@@ -1,0 +1,13 @@
+<!doctype>  <!-- DTD Document Type Definition -->
+<html lang="pt-br" dir="ltr">
+   <head>
+       <meta charset="UTF-8">
+       <title>INDEX</title>
+   </head>
+   <body>
+       <h1>Nome: Eduarda Nicoli Cavalheiro</h1>
+       <p>Cidade Natal: São Paulo</p>
+       <p>UF: São Paulo</p>
+    </body>
+</html>
+ 
